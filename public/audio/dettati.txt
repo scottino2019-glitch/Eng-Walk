@@ -1,0 +1,26 @@
+# ==========================================================
+# ENG·WALK - ELENCO SEMPLICE DEI DETTATI IN INGLESE
+# ==========================================================
+# Per aggiungere un dettato basta aggiungere una riga qui sotto:
+# Difficoltà | Nome file MP3 | Titolo | Testo in inglese
+#
+# Difficoltà supportate: Principiante, Intermedio, Avanzato
+# I file MP3 vanno messi nella cartella /public/audio/
+# Se il file MP3 non è presente, il Walkman usa automaticamente
+# la sintesi vocale nativa in inglese (en-US)!
+# ==========================================================
+
+Principiante | a1_01_greetings.mp3 | 01. Saluti e Presentazione | Hello! Nice to meet you. My name is Emma and I am from Milan.
+Principiante | a1_02_nationality.mp3 | 02. Nazionalità e Lingue | Where are you from? I am Italian, and I am learning English every day.
+Principiante | a1_03_time.mp3 | 03. Data e Ora | Today is Friday, and right now it is half past three in the afternoon.
+Principiante | a2_01_restaurant.mp3 | 04. Al Ristorante (Dialogo) | Hello, waiter! Could I see the menu, please? What are today's specials? I would like a hot bowl of vegetable soup and a glass of still water. How much is the bill? Can I pay by card? Thank you, everything was delicious!
+Intermedio | b1_01_shopping.mp3 | 05. Fare Shopping | Excuse me, how much is this black jacket? It looks really nice, though it is a bit expensive. Is it currently on sale?
+Intermedio | b1_02_directions.mp3 | 06. Indicazioni Stradali | Excuse me, could you tell me how to get to the nearest underground station? Walk straight ahead and turn right at the second traffic light.
+Intermedio | b1_03_weather.mp3 | 07. Previsioni del Tempo | The weather forecast says there will be heavy rain this weekend, and temperatures are expected to drop by around five degrees.
+Intermedio | b2_01_train.mp3 | 08. Viaggio in Treno | Due to thick fog along the coast, the high-speed train originally scheduled to depart at ten o'clock has been delayed by thirty minutes.
+Avanzato | b2_02_study.mp3 | 09. Abitudini di Studio | Mastering a foreign language requires not only genuine curiosity, but also consistent daily effort and active listening practice.
+Avanzato | c1_01_tea_culture.mp3 | 10. Cultura del Tè | British afternoon tea has a long and fascinating tradition. Sharing a pot of tea is not merely a break during the day, but a moment of calm conversation.
+Avanzato | c1_02_technology.mp3 | 11. Tecnologia e Vita | With the rapid spread of digital tools, contactless payments and remote collaboration have fundamentally transformed modern everyday habits.
+Avanzato | c2_01_ecology.mp3 | 12. Ecologia e Natura | Humanity and nature form an inseparable ecosystem; only by respecting environmental boundaries can we achieve sustainable long-term progress.
+Intermedio | b1_04_london_weekend.mp3 | 13. Testo Lungo: Weekend a Londra | Last weekend, my friends and I visited the British Museum in London. The weather was surprisingly sunny with clear blue skies. We spent three hours exploring the galleries and took plenty of photos. In the evening, we walked along the river Thames and enjoyed dinner near Covent Garden.
+Avanzato | c2_02_reading.mp3 | 14. Testo Lungo: L'Importanza della Lettura | Reading does far more than broaden our horizons; it enriches our inner world and sharpens critical thinking. Whenever we open a thoughtful book, we enter a quiet dialogue with another mind across time and space. In this fast-paced digital era, keeping a daily reading habit is more valuable than ever.
