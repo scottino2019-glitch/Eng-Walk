@@ -11,7 +11,7 @@
 # ==========================================================
 
 Principiante | a1_01_greetings.mp3 | 01. Saluti e Presentazione | Hello! Nice to meet you. My name is Emma and I am from Milan.
-Principiante | dettato_audio.mp3 | 02. Nazionalità e Lingue | Where are you from? I am Italian, and I am learning English every day.
+Principiante | a2_02_nationality.mp3 | 02. Nazionalità e Lingue | Where are you from? I am Italian, and I am learning English every day.
 Principiante | a1_03_time.mp3 | 03. Data e Ora | Today is Friday, and right now it is half past three in the afternoon.
 Principiante | a2_01_restaurant.mp3 | 04. Al Ristorante (Dialogo) | Hello, waiter! Could I see the menu, please? What are today's specials? I would like a hot bowl of vegetable soup and a glass of still water. How much is the bill? Can I pay by card? Thank you, everything was delicious!
 Intermedio | b1_01_shopping.mp3 | 05. Fare Shopping | Excuse me, how much is this black jacket? It looks really nice, though it is a bit expensive. Is it currently on sale?
